@@ -16,3 +16,10 @@ are caused by two trailing spaces at the end of a line.
 - Data Carpentry
 - Library Carpentry
 
+## An example of a second levle heading
+This text under my example of a second level heading includes a [link](https://google.ca) and ~~strike through~~ text.
+### A third level header
+1. A numbered list
+2. second item in list
+![A bunch of flowers]([https://raw.githubusercontent.com/carpentries/carpentries.org/main/images/TheCarpentries-opengraph.png](https://i.pinimg.com/originals/92/d4/4e/92d44e6690ff58d99f5d1734a974b844.jpg))
+
