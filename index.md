@@ -9,5 +9,7 @@ lesson-example: "https://carpentries.github.io/lesson-example/"
 
 More details about the project are availble from the [About page](about.md).
 
+See some [examples of our work]({{lesson-example}}).
+
 Have any questions about what we do? [We'd love to hear form you!](mailto:{{ site.email }})
 {% include footer.html %}
