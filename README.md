@@ -22,5 +22,5 @@ This text under my example of a second level heading includes a [link](https://g
 1. A numbered list
 2. second item in list
 
-![A bunch of flowers](https://i.pinimg.com/originals/92/d4/4e/92d44e6690ff58d99f5d1734a974b844.jpg)
+![Carpentries Logo](https://carpentries.org/thecarpentries-opengraph.png)
 
